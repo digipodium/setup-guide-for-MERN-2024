@@ -67,7 +67,7 @@ Node.js is runtime environment for executing JavaScript on server side. It inclu
 1.  **Download Node.js:**
 
 - Visit the [Node.js website](https://nodejs.org/en) and download the LTS version of NodeJS appropriate installer for your operating system.
-<img  src="images/node_1.png"  alt="Node.js installation step 1"  width="400"  style="padding-top:1rem;border-radius:.5rem"/>
+<img  src="images/node_1.png"  alt="Node.js installation step 1"  style="width:100%; padding-top:1rem;border-radius:.5rem"/>
   
 
 2.  **Install Node.js:**

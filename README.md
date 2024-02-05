@@ -39,8 +39,6 @@
     - [VSCode](#vscode)
     - [VSCode Extensions](#vscode-extensions)
     - [Git Configuration](#git-configuration)
-  - [Conclusion](#conclusion)
-
   
 
 4. [Conclusion](#conclusion)
